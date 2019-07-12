@@ -1,0 +1,9 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "IN yale doc2vec embeddings",
+      "tensorPath": "https://raw.githubusercontent.com/SheepWithNoWool/Next-Resource/master/projector/vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/SheepWithNoWool/Next-Resource/master/projector/metadata.tsv"
+    }
+  ]
+}

@@ -2,10 +2,6 @@
   "embeddings": [
     {
       "tensorName": "IN/OUT yale doc2vec embeddings",
-      "tensorShape": [
-        1000,
-        50
-      ],
       "tensorPath": "https://raw.githubusercontent.com/SheepWithNoWool/Next-Resource/master/projector/all_vectors.tsv",
       "metadataPath": "https://raw.githubusercontent.com/SheepWithNoWool/Next-Resource/master/projector/all_metadata.tsv"
     }
